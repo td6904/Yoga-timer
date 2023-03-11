@@ -1,0 +1,34 @@
+body {
+    margin: auto;
+    background-image: url(images/yoga-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+}
+
+.count {
+    font-size: 400pt;
+    display: flex;
+    justify-content: center;
+    border: 8px red dotted;
+    margin: 1000px;
+    color: red;
+    border-radius: 300px;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.buttons {
+    width: 800px;
+    height: 400px;
+    font-size: 200pt;
+    position: relative;
+    top: 800px;
+}
+
+.button-panel {
+    display: flex;
+    justify-content: space-around;
+}
