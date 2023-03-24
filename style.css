@@ -19,6 +19,8 @@ body {
     border-radius: 300px;
     background-color: white;
     opacity: 0.5;
+    position: relative;
+    bottom: 100px;
 }
 
 .buttons {
