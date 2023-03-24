@@ -13,8 +13,8 @@ body {
     display: flex;
     justify-content: center;
     border: 8px red dotted;
-    margin: 800px;
     margin-top: 50px;
+    margin: 100px;
     color: red;
     border-radius: 300px;
     background-color: white;
@@ -26,7 +26,7 @@ body {
     height: 200px;
     font-size: 100pt;
     position: relative;
-    top: 800px;
+    top: 600px;
 }
 
 .button-panel {
