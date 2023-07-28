@@ -6,6 +6,7 @@ body {
     height: 100%;
     width: 100%;
     position: absolute;
+    background-color: #1A565A;
 }
 
 .count {
